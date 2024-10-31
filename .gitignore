@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.ipynb_checkpoints/
+*.pdf
+catboost_info/
+filtered_data/
+Вводная встреча/
